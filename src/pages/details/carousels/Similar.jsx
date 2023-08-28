@@ -1,6 +1,7 @@
 import React from "react";
 
-import Carousel from "../../../components/carousel/Carousel";
+// import Carousel from "../../../components/carousel/Carousel";
+import Carousel from "../../../components/Carousel/Carousel";
 import useFetch from "../../../hooks/useFetch";
 
 const Similar = ({ mediaType, id }) => {
